@@ -1,8 +1,13 @@
-# React + Vite
+# The Green Table
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**The Green Table** is a web application that offers a curated collection of recipes, focusing on desserts and popular dishes. Built with React and styled using Tailwind CSS, it provides users with an intuitive and visually appealing interface to explore and discover new culinary delights.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Dynamic Content**: Showcases sections for hot desserts, popular recipes, and user testimonials.
+- **Responsive Design**: Ensures optimal viewing across various devices, from desktops to mobile phones.
+- **Modular Architecture**: Utilizes React's component-based structure for maintainability and scalability.
+
+## Live Demo
+
+Experience the application live at: [https://the-green-table.netlify.app/](https://the-green-table.netlify.app/)
